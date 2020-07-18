@@ -14,7 +14,7 @@ It's a shooter based game taking inspiration from the Japenese festival game "Sh
 * Implementation of sound effect
 
 ## Visuals
-
+Most of the images used were taken from ShutterStock and Pexels. Remaining were taken from other sources and "pixelised" using Adobe Photoshop.
 ## Installation
 
 ### Clone
@@ -34,7 +34,7 @@ git clone https://github.com/HeartArmy/Unaltered
 ## Contributing
 
 ## Authors and acknowledgment
-This game was created by Takumi Miyawaki (https://github.com/tm2904) and I, we both shared the work of coding and graphics (collecting the pictures and such) among ourselves for this project. Feel free to reach out to suggest more continent and cultural items to be featured :).
+This game was created by Takumi Miyawaki (https://github.com/tm2904) and I, we both shared the work of coding and graphics (collecting the pictures and such) equally among ourselves for this project. Feel free to reach out to suggest more continent and cultural items to be featured :).
 
 
 ## License
