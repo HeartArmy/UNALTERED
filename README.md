@@ -18,10 +18,10 @@ It's a shooter based game taking inspiration from the Japenese festival game "Sh
 ## Installation
 
 ### Clone
-- Clone this repo to your local machine using `https://github.com/tm2904/FinalCSProject.git`
+- Clone this repo to your local machine using `https://github.com/HeartArmy/Unaltered.git`
 - This can be done by changing directory to where you want the files to be cloned and entering --
 ```shell
-git clone https://github.com/tm2904/FinalCSProject
+git clone https://github.com/HeartArmy/Unaltered
 ```
 ### Setup
 - The main program file (unaltered.pyde) needs to be run in Processing.
@@ -34,6 +34,8 @@ git clone https://github.com/tm2904/FinalCSProject
 ## Contributing
 
 ## Authors and acknowledgment
+This game was created by Takumi Miyawaki (https://github.com/tm2904) and I, we both shared the work of coding and graphics (collecting the pictures and such) among ourselves for this project. Feel free to reach out to suggest more continent and cultural items to be featured :).
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
